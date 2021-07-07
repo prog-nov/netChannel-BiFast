@@ -13,6 +13,11 @@ import (
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 )
 
+// TODO : Tambahkan AppHdr ke mapping
+// TODO : Bikin mapping sesuai dengan dokumen "Kafka Interface Draft v1.5 - BPJS"
+// TODO : Parsing JSON ke ISO20022 pada *ISO20022 Adapter*
+// TODO : Service baru untuk proses ISO8583
+
 var (
 	connType        = "tcp"
 	listenIP        = "0.0.0.0"

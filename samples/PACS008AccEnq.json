@@ -1,0 +1,14 @@
+{
+  "messageId" :  "20210301INDOIDJA51012345678",
+  "creationDateTime" : "2021-03-01T19:00:00",
+  "NumberTransaction" :  "1",
+  "SettlementMethod" : "CLRG",
+  "EndToEndID" :  "20210301INDOIDJA510ORB12345678",
+  "TransactionID" : "20210301INDOIDJA11012345678",
+  "InterBankSettlementAmount" :  "1234.56",
+  "CurrencyCode" : "IDR",
+  "ChargeBearer" :  "DEBT",
+  "DebtorBankID" : "INDOIDJA",
+  "CreditorBankID" :  "CENAIDJA",
+  "CustomerAccountNumbera" : "987654321"
+}
